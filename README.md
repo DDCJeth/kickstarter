@@ -1,2 +1,2 @@
-# kikstarter
+# kickstarter
 Complete Project (Model to Production)
